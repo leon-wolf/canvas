@@ -24,3 +24,4 @@ License
 
 Copyright (c) 2020 Leon Wolf <leonwolf.oldb+canvas@gmail.com>
 canvas is released under MIT license.
+
