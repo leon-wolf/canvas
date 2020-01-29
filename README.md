@@ -2,7 +2,7 @@
 Canvas
 ======
 
-Image resizing for the [Go](http://golang.org) with common interpolation methods.
+Image resizing for [Go](http://golang.org) with common interpolation methods.
 
 Installation
 ------------
