@@ -1,5 +1,4 @@
-# This package is no longer being updated! Please look for alternatives if that bothers you.
-
+[![Build Status](https://travis-ci.com/leon3103/canvas.svg?branch=master)](https://travis-ci.com/leon3103/canvas)
 Canvas
 ======
 
